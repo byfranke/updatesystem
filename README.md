@@ -18,6 +18,6 @@ bash installer.sh
 ```
 Step : 4 Run
 ```
-sudo updatesystem\
+sudo updatesystem
 ```
 
