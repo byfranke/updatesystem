@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void){
-        printf("Update-apt Started: \n\n\n");
+        printf("UpdateSystem Started: \n\n\n");
         system("apt update");
         system("apt upgrade -y");
         system("apt full-upgrade -y");
